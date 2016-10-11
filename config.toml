@@ -5,10 +5,10 @@ contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Arthur Dent"
-title = "Arthur Dent"
+author = "Zack Scholl"
+title = "rpiai.com"
 pygmentsuseclasses = true
-disqusShortname = "cocoaexamplesite" # Comment out to disable Disqus.
+# disqusShortname = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 
 [permalinks]
@@ -16,7 +16,7 @@ fixed = ":title/"
 blog = ":slug/"
 
 [params]
-Author = "Arthur Dent"
+Author = "rpiai.com"
 CacheBuster = true
 DateForm = "Jan 2, 2006"
 DateFormFull = "Mon Jan 2 2006 15:04:05 MST"
