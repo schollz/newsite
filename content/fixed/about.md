@@ -1,18 +1,17 @@
 +++
-date = "2015-08-22T06:42:21-07:00"
-draft = false
 title = "About"
-permalink = "about/something"
+permalink = "about/"
+date = "2015-08-22T06:42:21-07:00"
 +++
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle. 
 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy. 
+# My projects:
 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
-
-<img src="//placehold.it/300x300" class="profile">
-
-<br />
-
-[About this site](colophon/)
+- [Good Movies Ninja](http://goodmovies.ninja/) - a great compilation of lists of moves
+- [Poetry Generator Ninja](http://www.poetrygenerator.ninja/poem/9f3d59e703fce8f4) - a simple AI for making poems 
+- [Music Suggestions Ninja](http://www.musicsuggestions.ninja/) - little web app for finding new music from a tree 
+- [Book Suggestions Ninja](http://www.booksuggestions.ninja/) - uses clustering to find results most closely related to your favorite book  
+- [Food Pairing Ninja](http://www.foodpairing.ninja/) - a website to find great food pairs
+- [musicsaur](http://www.musicsaur.com/) - open-source software to sync music using only your browser
+- [find](http://www.internalpositioning.com/) - open-source software triangulate your position with only a smartphone
+- [AwwKoala](https://awwkoala.com/about/view) - This is a self-contained wiki webserver that makes sharing easy and fast 
